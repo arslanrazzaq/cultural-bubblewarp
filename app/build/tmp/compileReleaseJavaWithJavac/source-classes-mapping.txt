@@ -1,0 +1,8 @@
+com/culturedapp/twa/DelegationService.java
+ com.culturedapp.twa.DelegationService
+com/culturedapp/twa/BuildConfig.java
+ com.culturedapp.twa.BuildConfig
+com/culturedapp/twa/LauncherActivity.java
+ com.culturedapp.twa.LauncherActivity
+com/culturedapp/twa/Application.java
+ com.culturedapp.twa.Application

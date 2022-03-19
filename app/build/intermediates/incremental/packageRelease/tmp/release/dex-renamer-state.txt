@@ -1,0 +1,4 @@
+#Wed Mar 02 18:48:16 PKT 2022
+base.0=/Volumes/Arslan/Android Workspace/bubblewrap/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
